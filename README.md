@@ -27,9 +27,9 @@ https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
 
 
 ### Level 2:
-https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algoip.htm#format/d - niekoniecznie z helionu, w innych księgarniach jest taniej
-https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
-https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/ - sprawdzić poziom mniej więcej
+* Grokking Algorithms,  Aditya Y. Bhargava
+* https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+* https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
 
 ### Level 3:
 https://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszt.htm j/w
