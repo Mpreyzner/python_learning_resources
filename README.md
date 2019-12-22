@@ -32,9 +32,9 @@ Then feel free to use something different, most of the time it doesn't matter mu
 * https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
 
 ### Level 3:
-* https://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszt.htm j/w
-* https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm
-* https://helion.pl/ksiazki/wzorce-projektowe-elementy-oprogramowania-obiektowego-wielokrotnego-uzytku-erich-gamma-richard-helm-ralph-johnson-john-vli,wzoelv.htm#format/d
+* Test Driven Development: By Example, Kent Beck
+* Clean Code, Robert C. Martin
+* Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 ### Level 2.5 |  3.5 (how to write the python way):
 * https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287
